@@ -1,3 +1,1 @@
-# docker
-echo "RILA"
-echo "MYMANE"
+this is docker repo
